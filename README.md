@@ -1,7 +1,7 @@
 
 # Personal Portfolio Website
 
-this is my first project where , i have created an portfolio website where , individuals can see portfolios of famous pesonalities.
+this is my first project where , I have created an portfolio website where , individuals can see portfolios of famous pesonalities.
 
 
 ## Appendix
